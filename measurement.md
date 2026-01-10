@@ -1,10 +1,10 @@
-## How Richard Feynman Explained Quantum Physics 
+# How Richard Feynman Explained Quantum Physics 
 
-### 導讀
+## 導讀
 
 測量/觀測（measurement/observation）是一種相互作用（interaction），產生了事實（fact）。現實是參與的（reality is participatory）
 
-### 正文
+## 正文
 
 Ladies and gentlemen, let me begin with a confession.
 Nobody, and I mean nobody, truly understands quantum physics.
@@ -145,9 +145,9 @@ So when you walk out of here tonight, remember this. You don't need to understan
 You need to respect it the way you respect the ocean. You don't argue with it. You don't simplify it away. You learn how it moves and you move with it.
 And that ladies and gentlemen is the strange, beautiful and honest story of quantum physics. 
 
-### Original source
+## Original source
 https://www.youtube.com/watch?v=kJgpfJXatfM
 
-### 經典摘錄
+## 經典摘錄
 
 你未看此花時，此花與汝心同歸於寂。 你來看此花時，則此花顏色一時明白起來。 
